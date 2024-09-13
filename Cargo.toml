@@ -1,0 +1,7 @@
+[package]
+name = "bettary_status"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ak_macros = "0.2.9"
